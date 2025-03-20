@@ -1,2 +1,6 @@
 # InstagramUnfollower
-This code helps you to unfollow the peoples from your instagram account.
+This code helps you unfollow people from your Instagram account.
+
+# Search for INSTAGRAM_USERNAME and Reply with your Instagram Username. I used it personally, so this may be difficult to understand, but it works safely. 
+
+The code is AI-generated and customized.
